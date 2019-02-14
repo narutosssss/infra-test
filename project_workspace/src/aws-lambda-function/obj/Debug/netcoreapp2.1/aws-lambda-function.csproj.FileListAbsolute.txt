@@ -1,0 +1,11 @@
+/Applications/XAMPP/xamppfiles/htdocs/sansiri-infrastructure/project_workspace/src/aws-lambda-function/bin/Debug/netcoreapp2.1/aws-lambda-function.deps.json
+/Applications/XAMPP/xamppfiles/htdocs/sansiri-infrastructure/project_workspace/src/aws-lambda-function/bin/Debug/netcoreapp2.1/aws-lambda-function.runtimeconfig.json
+/Applications/XAMPP/xamppfiles/htdocs/sansiri-infrastructure/project_workspace/src/aws-lambda-function/bin/Debug/netcoreapp2.1/aws-lambda-function.runtimeconfig.dev.json
+/Applications/XAMPP/xamppfiles/htdocs/sansiri-infrastructure/project_workspace/src/aws-lambda-function/bin/Debug/netcoreapp2.1/aws-lambda-function.dll
+/Applications/XAMPP/xamppfiles/htdocs/sansiri-infrastructure/project_workspace/src/aws-lambda-function/bin/Debug/netcoreapp2.1/aws-lambda-function.pdb
+/Applications/XAMPP/xamppfiles/htdocs/sansiri-infrastructure/project_workspace/src/aws-lambda-function/obj/Debug/netcoreapp2.1/aws-lambda-function.csprojAssemblyReference.cache
+/Applications/XAMPP/xamppfiles/htdocs/sansiri-infrastructure/project_workspace/src/aws-lambda-function/obj/Debug/netcoreapp2.1/aws-lambda-function.csproj.CoreCompileInputs.cache
+/Applications/XAMPP/xamppfiles/htdocs/sansiri-infrastructure/project_workspace/src/aws-lambda-function/obj/Debug/netcoreapp2.1/aws-lambda-function.AssemblyInfoInputs.cache
+/Applications/XAMPP/xamppfiles/htdocs/sansiri-infrastructure/project_workspace/src/aws-lambda-function/obj/Debug/netcoreapp2.1/aws-lambda-function.AssemblyInfo.cs
+/Applications/XAMPP/xamppfiles/htdocs/sansiri-infrastructure/project_workspace/src/aws-lambda-function/obj/Debug/netcoreapp2.1/aws-lambda-function.dll
+/Applications/XAMPP/xamppfiles/htdocs/sansiri-infrastructure/project_workspace/src/aws-lambda-function/obj/Debug/netcoreapp2.1/aws-lambda-function.pdb
